@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [valerii15298.github.io](valerii15298.github.io)
+- 👨‍💻 All of my projects are available at [valerii15298.github.io](https://valerii15298.github.io/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/valerii15298/](https://www.linkedin.com/in/valerii15298/)
 
